@@ -69,5 +69,5 @@ CHIP ALU {
 
       // output < 0 (ng)
       And(a=firstOut, b=true, out=ng);
-      //test commit log
+      // second test commit log
 }
